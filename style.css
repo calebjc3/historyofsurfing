@@ -1,0 +1,23 @@
+body {
+  font-family: 'Pathway Gothic One', sans-serif;
+  color: #ea660f;
+  margin: 10px 50px 10px 50px;
+  background-color: ivory;
+  background-image: url("https://cdn-image.departures.com/sites/default/files/1557159948/hawaii-surfing-sport-pacific-ocean-usa-HAWAIISURF0519.jpg");
+  background-size: cover;
+}
+
+h1, h2 {
+  font-family: 'Pathway Gothic One', sans-serif;
+  text-align: center;
+}
+
+h3 {
+  position: center;
+}
+
+img {
+  float: inside;
+  margin-right: 25px;
+  margin-left: 25px;
+}
